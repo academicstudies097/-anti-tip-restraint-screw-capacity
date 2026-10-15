@@ -1,11 +1,11 @@
 cff-version: 1.2.0
 message: "Bu kodu veya çıktıları kullanırsanız lütfen aşağıdaki şekilde atıf yapınız."
-title: "Deprem etkisinde devrilme önleyici dolap bağlantılarında vida tutma kapasitesi — analiz kodu ve verileri"
+title: 
 authors:
-  - family-names: Polat
-    given-names: Ayşan Ilgın
-    affiliation: "Antalya Bilim Üniversitesi, İç Mimarlık ve Çevre Tasarımı Bölümü"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: 
+    given-names: 
+    affiliation: 
+    orcid: "
 version: 1.0.0
 date-released: 2026-10-15
 license: MIT
