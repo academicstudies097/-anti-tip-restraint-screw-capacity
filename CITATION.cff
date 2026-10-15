@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "Bu kodu veya çıktıları kullanırsanız lütfen aşağıdaki şekilde atıf yapınız."
+title: "Deprem etkisinde devrilme önleyici dolap bağlantılarında vida tutma kapasitesi — analiz kodu ve verileri"
+authors:
+  - family-names: Polat
+    given-names: Ayşan Ilgın
+    affiliation: "Antalya Bilim Üniversitesi, İç Mimarlık ve Çevre Tasarımı Bölümü"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+version: 1.0.0
+date-released: 2026-10-15
+license: MIT
+repository-code: "https://github.com/KULLANICI_ADI/anti-tip-restraint-screw-capacity"
+keywords:
+  - earthquake
+  - anti-tip restraint
+  - screw withdrawal resistance
+  - particleboard
+  - Monte Carlo
+references:
+  - type: dataset
+    title: "Global Wood Density Database v.2 (GWDD v.2)"
+    authors:
+      - family-names: Fischer
+        given-names: Fabian Jörg
+      - name: "et al."
+    year: 2026
+    doi: 10.5281/zenodo.18262736
+    license: CC-BY-4.0
+  - type: article
+    title: "Screw withdrawal capacity used in the eccentric joints of cabinet furniture connectors in particleboard and MDF"
+    authors:
+      - family-names: Vassiliou
+        given-names: V.
+      - family-names: Barboutis
+        given-names: I.
+    journal: "Journal of Wood Science"
+    volume: 51
+    issue: 6
+    start: 572
+    end: 576
+    year: 2005
+    doi: 10.1007/s10086-005-0708-9
